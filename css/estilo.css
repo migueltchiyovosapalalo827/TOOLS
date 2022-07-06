@@ -1,0 +1,94 @@
+.mynavbar{
+    text-transform: uppercase !important;
+}
+
+
+.nav-masthead .nav-link {
+    font-weight: 400;
+  }
+
+  .nav-masthead .nav-link:hover {
+    border-bottom-color: #fe7f007e;}
+
+
+.nav-masthead .active {
+    color: #fff;
+    border-bottom-color: #FE7D00;
+}
+
+.fundo{
+    background: url(../img/fundo2.png) no-repeat;
+}
+
+.corousel-servico img{
+    object-fit: cover;
+    height: 300px;
+}
+.corousel-produtos img{
+    object-fit: cover;
+    height: 200px;
+}
+
+.corousel-produtos-info{
+  padding: 0px;
+  margin: 0px;
+  text-align: justify;
+}
+.owl-nav{
+    font-size: 34px;
+}
+
+.input-textos{  
+    background-color: rgba(224, 224, 224, 0.897);
+}
+
+.botao{
+    
+    border: 1px solid #979797;
+    border-radius: 4px;
+    background-color: #04598B;;
+    float: left;
+    color: white;
+}
+
+
+.botao:hover{
+    
+    border: 1px solid #979797;
+    border-radius: 4px;
+    background-color: #0b4d74;
+    color: white;
+}
+
+
+.cartao-mvv{
+    
+    background-color: rgba(255, 255, 255, 0.534);
+    color: black;
+}
+#more{
+    display: none;
+}
+
+#myBtn{
+    color: black;
+}
+
+.texto-carreira{
+    font-size: 18pt;
+}
+.owl-prev{
+    margin-right: 10px !important;
+    color: #FE7D00 !important;
+}
+.owl-next{
+    margin-left: 10px !important;
+    color: #FE7D00 !important;
+}
+
+.owl-nav{
+    font-size: 30pt;
+}
+h3{
+    text-transform: uppercase;
+}
